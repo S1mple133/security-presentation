@@ -1,0 +1,38 @@
+:customcss: ../style.css
+:author: Pavelescu
+:revnumber: 1.0
+:revdate: {docdate}
+:encoding: utf-8
+:lang: de
+:imagesdir: ../images
+:doctype: article
+:icons: font
+
+//:numbered:
+
+[.oidau]
+== OpenID und OAuth 2.0
+
+Darius Pavelescu
+
+image::cover.jpeg[background, size=cover]
+
+=== Einführung
+
+* Identität festgestellen (Authentication)
+
+* Daten schützen (Authorisation)
+
+* Anwendungen schützen (Authorisation)
+
+=== OAuth 2.0
+
+* Protokoll für Autorisierung
+
+=== Open ID Connect
+
+* *OpenID* ist ein "open standard” und ein Protokoll für dezentralisierte Authentifizierung
+
+* *OpenID Connect (OIDC)* basiert auf dem OAuth 2.0 Protokoll
+
+== Vielen Dank für Ihre Aufmerksamkeit!
