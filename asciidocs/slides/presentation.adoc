@@ -17,7 +17,7 @@ Darius Pavelescu
 
 image::cover.jpeg[background, size=cover]
 
-=== Einführung
+=== Ausganssitation
 
 * Identität festgestellen (Authentication)
 
@@ -27,12 +27,22 @@ image::cover.jpeg[background, size=cover]
 
 === OAuth 2.0
 
-* Protokoll für Autorisierung
+Protokoll für Autorisierung
 
-=== Open ID Connect
+image::oauth.png[]
 
-* *OpenID* ist ein "open standard” und ein Protokoll für dezentralisierte Authentifizierung
+=== Open ID Connect (OIDC)
 
-* *OpenID Connect (OIDC)* basiert auf dem OAuth 2.0 Protokoll
+Protokoll für Autorisierung und Authentifizierung
+
+image::oidc.png[]
+
+Access Token + ID Token für OAuth kompatibilität
+
+=== JWT Token
+
+image::jwt-token.png[width=640]
+
+=== Demo
 
 == Vielen Dank für Ihre Aufmerksamkeit!
