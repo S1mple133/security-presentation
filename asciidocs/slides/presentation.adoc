@@ -17,9 +17,9 @@ Darius Pavelescu
 
 image::cover.jpeg[background, size=cover]
 
-=== Ausganssitation
+=== Ausgangssituation
 
-* Identität festgestellen (Authentication)
+* Identität feststellen (Authentication)
 
 * Daten schützen (Authorisation)
 
@@ -37,7 +37,7 @@ Protokoll für Autorisierung und Authentifizierung
 
 image::oidc.png[]
 
-Access Token + ID Token für OAuth kompatibilität
+Access Token + ID Token für OAuth Kompatibilität
 
 === JWT Token
 
